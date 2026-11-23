@@ -48,6 +48,9 @@ npm run tauri build
 
 Chỉ build frontend: `npm run build`. Chỉ kiểm tra backend: `cargo check` (trong `src-tauri/`).
 
+Link tải: https://drive.google.com/file/d/1VCNklhOsuUhJlZ5ptMjjwLorMg3kxbcO/view?usp=drive_link
+https://drive.google.com/file/d/1vL0MQTlnNmf0SjKfvHiRuJ-33WYWmXCJ/view?usp=drive_link
+
 ## License
 
 MIT
